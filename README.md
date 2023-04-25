@@ -7,4 +7,5 @@
 VS Code extension to take print screen from code stretches.
 
 ![](./math-service-vscode-light.png)
+![](./math-service-vscode-light-shadow.png)
 ![](./math-service-vscode-dark.png)
